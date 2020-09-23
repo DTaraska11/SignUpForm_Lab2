@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SignUpForm</string>
+    <string name="name">Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="lblPassword">Enter Your Password :</string>
+    <string name="lblEmail">Enter Your Email :</string>
+    <string name="lblName">Enter Your Name :</string>
+    <string name="lblConfirmPassword">Confirm Your Password :</string>
+    <string name="lblSave">Save</string>
+
+</resources>
