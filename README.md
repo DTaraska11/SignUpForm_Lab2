@@ -5,4 +5,4 @@ Basic signup form that takes a name, email, and password. If user hits 'save' wi
 Otherwise they recieve a message displaying their name. 
 
 
-![Alt text](https://github.com/DTaraska11/SignUpForm_Lab2/blob/master/Screenshot_20200923-115118.pngraw=true "Screenshot")
+![Alt text](https://github.com/DTaraska11/SignUpForm_Lab2/blob/master/Screenshot_20200923-115118.png)
